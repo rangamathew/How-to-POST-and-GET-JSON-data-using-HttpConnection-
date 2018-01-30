@@ -1,0 +1,6 @@
+package com.omni.apilistner.ApiListeners;
+
+public interface ApiResponse
+{
+    public void onApiResponse(String response);
+}
